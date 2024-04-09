@@ -11,6 +11,6 @@ slti $t3, $s6, 30
 bne $t3, $zero, fruitloops 
 
 #I am here assuming the following:
-29: #yield (2 bytes)
-30: #category (1 byte)
-31: #active (1 byte)
+#yield (2 bytes)
+#category (1 byte)
+#active (1 byte)
